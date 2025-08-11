@@ -3,11 +3,11 @@
 **Field of interests:** Software Development, Web Development.
 
 # Skills 🛠️
-**•	Backend:** Python | Express.js | PHP | Java | C#
+**•	Backend:** Python | Express.js | PHP | Java | C#   <br>
 
-**•	Frontend:** React | Angular | HTML5 | CSS3 | Bootstrap | JavaScript | jQuery | Ajax | Tailwind | TypeScript 
+**•	Frontend:** React | Angular | HTML5 | CSS3 | Bootstrap | JavaScript | jQuery | Ajax | Tailwind | TypeScript  <br>
 
-**•	Database:** MySQL | MongoDB | Firebae
+**•	Database:** MySQL | MongoDB | Firebae  <br>
 
 
 
