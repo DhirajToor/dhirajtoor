@@ -4,7 +4,9 @@
 
 # Skills 🛠️
 **•	Backend:** Python | Express.js | PHP | Java | C#
+
 **•	Frontend:** React | Angular | HTML5 | CSS3 | Bootstrap | JavaScript | jQuery | Ajax | Tailwind | TypeScript 
+
 **•	Database:** MySQL | MongoDB | Firebae
 
 
