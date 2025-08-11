@@ -1,6 +1,13 @@
 ## Hello, My name is Dhiraj Toor 👋
 
-- currently pursuing : Computer Software and Database Development
+**Field of interests:** Software Development, Web Development.
 
-- location: Toronto, Ontario
+# Skills 🛠️
+**•	Backend:** Python | Express.js | PHP | Java | C#
+**•	Frontend:** React | Angular | HTML5 | CSS3 | Bootstrap | JavaScript | jQuery | Ajax | Tailwind | TypeScript 
+**•	Database:** MySQL | MongoDB | Firebae
+
+
+
+
 
